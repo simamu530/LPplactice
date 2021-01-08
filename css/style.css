@@ -169,7 +169,6 @@ select {
 
 /* その他のスタイルは以下に記述していきます */
 
-
 .header-wrap {
   padding: 2%;
 }
@@ -197,7 +196,7 @@ select {
 
   background: url(../img/eyecatch.jpg) no-repeat;
   background-size: cover;
-  background-position:center;
+  background-position: center;
   min-height: 100vh;
 }
 
@@ -235,7 +234,6 @@ select {
 .infotext {
   margin: auto 0;
   text-align: center;
-  
 }
 
 .infotext h1 {
@@ -309,7 +307,6 @@ a.news-link {
   text-align: center;
 }
 
-
 @media screen and (max-width: 768px) {
   #hamburger {
     width: 40px;
@@ -382,8 +379,6 @@ a.news-link {
   }
   .info img {
     width: 50%;
-    height:auto;
+    height: auto;
   }
-
-
 }
